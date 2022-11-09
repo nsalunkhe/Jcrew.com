@@ -1,5 +1,7 @@
 import {Box,Image,Heading} from "@chakra-ui/react"
 import Logo from "../Images/JCREW LOGO.png"
+import { Link } from "@chakra-ui/react"
+
 
 export default function Home() {
            
@@ -60,168 +62,168 @@ export default function Home() {
         id:1,
         image:"https://www.jcrew.com/s7-img-facade/BN053_PT2648?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"NEW",
-        desc:"Limited-edition set-of-four napkins in Stewart tartan",
-        price:"INR 5,530"  
+        desc:"Limited-edition full/queen duvet set in Liberty@Toutouayette fabric",
+        price:"INR 34,281"  
     
       },
       {
         id:2,
         image:"https://www.jcrew.com/s7-img-facade/BN083_PT2660?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four placemats in Stewart tartan",
-        price:"INR 6,912"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition full/queen duvet set in Liberty@ May Nouveau fabric",
+        price:"INR 34,281"  
     
       },
       {
         id:3,
         image:"https://www.jcrew.com/s7-img-facade/BN084_PT0598?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition tablecloth in Good tidings plaid",
-        price:"INR 13,547"
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition full/queen duvet set in Black Watch tartan",
+        price:"INR 30,134"
     
       },
       {
         id:4,
         image:"https://www.jcrew.com/s7-img-facade/BN051_YD2415?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four napkins in Stewart tartan",
-        price:"INR 5,530"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition full/queen duvet set in Liberty@ Poppy Amelie fabric",
+        price:"INR 34,281"  
     
       },
       {
         id:5,
         image:"https://www.jcrew.com/s7-img-facade/BN090_PT0598?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four placemats in Stewart tartan",
-        price:"INR 6,912"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition king duvet set in Liberty@Tudor Tulip fabric",
+        price:"INR 37,045"  
     
       },
       {
         id:6,
         image:"https://www.jcrew.com/s7-img-facade/BN054_YD2415?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition tablecloth in Good tidings plaid",
-        price:"INR 13,547"
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition king/ California king duvet set in Liberty@Toutouayette fabric",
+        price:"INR 37,045"
     
       },
       {
         id:7,
         image:"https://www.jcrew.com/s7-img-facade/BN091_PT0518?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four napkins in Stewart tartan",
-        price:"INR 5,530"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition king/ California king duvet set in Liberty@ May Nouveau fabric",
+        price:"INR 37,045"  
     
       },
       {
         id:8,
         image:"https://www.jcrew.com/s7-img-facade/BN059_PT2648?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four placemats in Stewart tartan",
-        price:"INR 6,912"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition king duvet set in Black Watch tartan",
+        price:"INR 32,899"  
     
       },
       {
         id:9,
         image:"https://www.jcrew.com/s7-img-facade/BN086_PT2660?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition tablecloth in Good tidings plaid",
-        price:"INR 13,547"
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition king/ California king duvet set in Liberty@ Poppy Amelie fabric",
+        price:"INR 37,045"
     
       },
       {
         id:10,
         image:"https://www.jcrew.com/s7-img-facade/BN053_PT2648?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four napkins in Stewart tartan",
-        price:"INR 5,530"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition twin XL sheet set in Liberty@Tudor Tulip fabric",
+        price:"INR 27,369"  
     
       },
       {
         id:11,
         image:"https://www.jcrew.com/s7-img-facade/BN083_PT2660?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four placemats in Stewart tartan",
-        price:"INR 6,912"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition twin XL sheet set in Liberty@ Toutouayette fabric" ,
+        price:"INR 27,369"  
     
       },
       {
         id:12,
         image:"https://www.jcrew.com/s7-img-facade/BN084_PT0598?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition tablecloth in Good tidings plaid",
-        price:"INR 13,547"
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition twin XL sheet set in Liberty@May Nouveau fabric",
+        price:"INR 27,369"
     
       },
       {
         id:13,
         image:"https://www.jcrew.com/s7-img-facade/BN051_YD2415?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four napkins in Stewart tartan",
-        price:"INR 5,530"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition twin XL sheet set in Black Watch tartan",
+        price:"INR 24,605"  
     
       },
       {
         id:14,
         image:"https://www.jcrew.com/s7-img-facade/BN085_PT0518?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four placemats in Stewart tartan",
-        price:"INR 6,912"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition twin XL sheet set in Liberty@Poppy Amelie fabric",
+        price:"INR 27,369"  
     
       },
       {
         id:15,
         image:"https://www.jcrew.com/s7-img-facade/BN056_PT2648?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition tablecloth in Good tidings plaid",
-        price:"INR 13,547"
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition full sheet set in Liberty@Tudor Tulip fabric",
+        price:"INR 32,899"
     
       },
       {
         id:16,
         image:"https://www.jcrew.com/s7-img-facade/BN089_PT2660?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four napkins in Stewart tartan",
-        price:"INR 5,530"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition full sheet set in Liberty@ Toutouayette fabric",
+        price:"INR 32,899"  
     
       },
       {
         id:17,
         image:"https://www.jcrew.com/s7-img-facade/BN090_PT0598?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four placemats in Stewart tartan",
-        price:"INR 6,912"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition full sheet set in Liberty@May Nouveau fabric",
+        price:"INR 32,899"  
     
       },
       {
         id:18,
         image:"https://www.jcrew.com/s7-img-facade/BN091_PT0518?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition tablecloth in Good tidings plaid",
-        price:"INR 13,547"
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition full sheet set in Black Watch tartan",
+        price:"INR 27,369"
     
       },
       {
         id:19,
-        image:"https://www.jcrew.com/s7-img-facade/BN066_YD2455?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four napkins in Stewart tartan",
-        price:"INR 5,530"  
+        image:"https://www.jcrew.com/s7-img-facade/BN091_PT0518?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition full/queen set in Liberty@ Poppy Amelie fabric",
+        price:"INR 32,899"  
     
       },
       {
         id:20,
         image:"https://www.jcrew.com/s7-img-facade/BN057_YD2415?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition set-of-four placemats in Stewart tartan",
-        price:"INR 6,912"  
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition queen sheet set in Liberty@Tudor Tulip fabric",
+        price:"INR 34,281"  
     
       },
       {
         id:21,
         image:"https://www.jcrew.com/s7-img-facade/BN088_PT0518?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
-        catagory:"NEW",
-        desc:"Limited-edition tablecloth in Good tidings plaid",
-        price:"INR 13,547"
+        catagory:"ONLY A FEW LEFT",
+        desc:"Limited-edition full sheet set in Liberty@ Toutouayette fabric",
+        price:"INR 34,281"
     
       }
 
@@ -297,7 +299,43 @@ export default function Home() {
                 {three}
                 </Box>
               
-             
+             {/* ------------Here is my Footer section -------------------------------------*/}
+               
+
+                 <Box width="100%" height="400px" backgroundColor="gray" marginTop="30px" display="flex" gap="20px">
+                   
+                    <Box height="100%" width="30%" padding="30px" display="grid" color="white" fontSize="20px">
+                        <Link href="https://www.jcrew.com/in/help/customer-service">Customer Service</Link>
+                        <Link href="https://www.jcrew.com/in/help/order-status">Track Order</Link>
+                        <Link href="https://www.jcrew.com/in/help/returns-exchanges">Shipping</Link>
+                        <Link href="https://www.jcrew.com/in/help/shipping-handling">International Orders</Link>
+                        <Link href="https://www.jcrew.com/in/help/international-orders">Contact Us</Link>
+                        <Link href="https://www.jcrew.com/in/help/contact-us">Returns and Exchange</Link>
+                    </Box>
+                    <Box height="100%" width="30%" padding="30px" display="grid" color="white" fontSize="20px">
+                        <Link href="https://stores.jcrew.com/search">Find a Store</Link>
+                        <Link href="https://www.jcrew.com/in/r/size-charts">Size Charts</Link>
+                        <Link href="https://www.jcrew.com/in/best-deals">Offers & Promotions</Link>
+                        <Link href="https://www.jcrew.com/in/favorites">My Favorites</Link>
+                        <Link href="https://www.facebook.com/jcrew">Facebook</Link>
+                        <Link href="https://www.instagram.com/jcrew/">Instagram</Link>
+                        <Link href="https://twitter.com/jcrew">Twitter</Link>
+                    </Box>
+                    <Box height="100%" width="30%" padding="20px" display="grid" color="white" fontSize="20px">
+                        <Link href="https://www.jcrew.com/in/s/aboutus">Our Story</Link>
+                        <Link href="https://jobs.jcrew.com/">Careers</Link>
+                        <Link href="https://www.jcrew.com/in/s/corporate-responsibility">Social Responsibility</Link>
+                        <Link href="https://www.jcrew.com/in/s/CSR-california-transparency-act">California Transparency Act/Modern Slavery Act</Link>
+                        <Link href="https://investors.jcrew.com/investor-relations/?ver=jc">Investor Relations</Link>
+                        <Link href="https://www.jcrew.com/in/help/terms-of-use">Terms of Use</Link>
+                        <Link href="https://www.jcrew.com/in/help/privacy-policy">Privacy Policy</Link>
+                        <Link href="https://jcrew.clarip.com/dsr/create?brand=jcrew&type=3">California Do Not Sell My Personal Information</Link>
+                        <Link href="https://www.jcrew.com/in/s/diversity-equity-inclusion">Diversity, Equity and Inclusion at J.Crew Group</Link>
+                        
+                    </Box>
+                     
+                 </Box>
+
       </div>
     );
   }
