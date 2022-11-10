@@ -57,9 +57,56 @@ export default function Home() {
           }]
    
 
-    const data3=[
-        {
+    const data3=[ {
         id:1,
+        image:"https://www.jcrew.com/s7-img-facade/BD613_SU9614_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"BEST SELLER",
+        desc:"Rollneck sweater in Supersoft yarn",
+        price:"INR 12,372"  
+    
+      },
+      {
+        id:2,
+        image:"https://www.jcrew.com/s7-img-facade/F8444_EE3355?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"BEST SELLER",
+        desc:"Nordic boots",
+        price:"INR 15,827"  
+    
+      },
+      {
+        id:3,
+        image:"https://www.jcrew.com/s7-img-facade/BM312_PT3361_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"NEW",
+        desc:"Tissue turtleneck in ivory plaid",
+        price:"INR 6,221"
+    
+      },
+      {
+        id:4,
+        image:"https://www.jcrew.com/s7-img-facade/BM931_YD2191_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"",
+        desc:"Classic-fit flannel shirt in Snowy Stewart tartan",
+        price:"INR 13,547"  
+    
+      },
+      {
+        id:5,
+        image:"https://www.jcrew.com/s7-img-facade/BM342_GR7105_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"NEW",
+        desc:"Perfect-fit turtleneck with jewel buttons",
+        price:"INR 10,990"  
+    
+      },
+      {
+        id:6,
+        image:"https://www.jcrew.com/s7-img-facade/BN309_GY6372?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"BEST SELLER",
+        desc:"Lightweight sculpted hoop earrings",
+        price:"INR 6,635"
+    
+      },
+        {
+        id:7,
         image:"https://www.jcrew.com/s7-img-facade/BN053_PT2648?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"NEW",
         desc:"Limited-edition full/queen duvet set in Liberty@Toutouayette fabric",
@@ -67,7 +114,7 @@ export default function Home() {
     
       },
       {
-        id:2,
+        id:8,
         image:"https://www.jcrew.com/s7-img-facade/BN083_PT2660?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition full/queen duvet set in Liberty@ May Nouveau fabric",
@@ -75,7 +122,7 @@ export default function Home() {
     
       },
       {
-        id:3,
+        id:9,
         image:"https://www.jcrew.com/s7-img-facade/BN084_PT0598?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition full/queen duvet set in Black Watch tartan",
@@ -83,7 +130,7 @@ export default function Home() {
     
       },
       {
-        id:4,
+        id:10,
         image:"https://www.jcrew.com/s7-img-facade/BN051_YD2415?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition full/queen duvet set in Liberty@ Poppy Amelie fabric",
@@ -91,7 +138,7 @@ export default function Home() {
     
       },
       {
-        id:5,
+        id:11,
         image:"https://www.jcrew.com/s7-img-facade/BN090_PT0598?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition king duvet set in Liberty@Tudor Tulip fabric",
@@ -99,23 +146,117 @@ export default function Home() {
     
       },
       {
-        id:6,
+        id:12,
         image:"https://www.jcrew.com/s7-img-facade/BN054_YD2415?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition king/ California king duvet set in Liberty@Toutouayette fabric",
         price:"INR 37,045"
     
+      }, {
+        id:13,
+        image:"https://www.jcrew.com/s7-img-facade/BM511_YD2419_m?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"NEW",
+        desc:"Boys'rugby crewneck sweatshirt in french terry",
+        price:"INR 9,607"  
+    
       },
       {
-        id:7,
+        id:14,
+        image:"https://www.jcrew.com/s7-img-facade/BM506_SR0882?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"NEW",
+        desc:"Kids' bear Fair Isle sweater in lambswool bend ",
+        price:"INR 10,990"  
+    
+      },
+      {
+        id:15,
+        image:"https://www.jcrew.com/s7-img-facade/BC670_BL9141?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"BEST SELLER",
+        desc:"Kids'quilted jersey reversible half-zip sweatshirt",
+        price:"INR 12,372"
+    
+      },
+      {
+        id:16,
+        image:"https://www.jcrew.com/s7-img-facade/BM630_SR0259?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"OLD",
+        desc:"Kids' wool-blend Fair Isle beanie ",
+        price:"INR 5,460"  
+    
+      },
+      {
+        id:17,
+        image:"https://www.jcrew.com/s7-img-facade/AZ841_NA6445?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"OLD",
+        desc:"Boys' long-sleeve waffle T-shirt",
+        price:"INR 6,221"  
+    
+      },
+      {
+        id:18,
+        image:"https://www.jcrew.com/s7-img-facade/BM650_KF5316?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"OLD",
+        desc:"Kids'long-sleeve fa-la-la graphic T-shirt ",
+        price:"INR 4,493"
+    
+      },
+      {
+        id:19,
         image:"https://www.jcrew.com/s7-img-facade/BN091_PT0518?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition king/ California king duvet set in Liberty@ May Nouveau fabric",
         price:"INR 37,045"  
     
+      }, {
+        id:20,
+        image:"https://www.jcrew.com/s7-img-facade/BC199_WQ6295?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"BEST SELLER",
+        desc:"Flannel pajama set",
+        price:"INR 13,547"  
+    
       },
       {
-        id:8,
+        id:21,
+        image:"https://www.jcrew.com/s7-img-facade/BK216_RD6052?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"BEST SELLER",
+        desc:"Heavyweight chamois workshirt",
+        price:"INR 8,225"  
+    
+      },
+      {
+        id:22,
+        image:"https://www.jcrew.com/s7-img-facade/AZ972_SR0059?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"TOP RATED",
+        desc:"Cashmere cable-knit sweater",
+        price:"INR 31,516"
+    
+      },
+      {
+        id:23,
+        image:"https://www.jcrew.com/s7-img-facade/BD014_SR0059?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"BEST SELLER",
+        desc:"Cashmere beanie",
+        price:"INR 5,046"  
+    
+      },
+      {
+        id:24,
+        image:"https://www.jcrew.com/s7-img-facade/BL820_SR0815?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"",
+        desc:"Marled cotton crewneck sweater",
+        price:"INR 6,152"  
+    
+      },
+      {
+        id:25,
+        image:"https://www.jcrew.com/s7-img-facade/BJ316_PP3789?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        catagory:"NEW COLOR",
+        desc:"Wool suit belt",
+        price:"INR 9,607"
+    
+      },
+      {
+        id:26,
         image:"https://www.jcrew.com/s7-img-facade/BN059_PT2648?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition king duvet set in Black Watch tartan",
@@ -123,7 +264,7 @@ export default function Home() {
     
       },
       {
-        id:9,
+        id:27,
         image:"https://www.jcrew.com/s7-img-facade/BN086_PT2660?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition king/ California king duvet set in Liberty@ Poppy Amelie fabric",
@@ -131,7 +272,7 @@ export default function Home() {
     
       },
       {
-        id:10,
+        id:28,
         image:"https://www.jcrew.com/s7-img-facade/BN053_PT2648?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition twin XL sheet set in Liberty@Tudor Tulip fabric",
@@ -139,7 +280,7 @@ export default function Home() {
     
       },
       {
-        id:11,
+        id:29,
         image:"https://www.jcrew.com/s7-img-facade/BN083_PT2660?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition twin XL sheet set in Liberty@ Toutouayette fabric" ,
@@ -147,7 +288,7 @@ export default function Home() {
     
       },
       {
-        id:12,
+        id:30,
         image:"https://www.jcrew.com/s7-img-facade/BN084_PT0598?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition twin XL sheet set in Liberty@May Nouveau fabric",
@@ -155,7 +296,7 @@ export default function Home() {
     
       },
       {
-        id:13,
+        id:31,
         image:"https://www.jcrew.com/s7-img-facade/BN051_YD2415?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition twin XL sheet set in Black Watch tartan",
@@ -163,7 +304,7 @@ export default function Home() {
     
       },
       {
-        id:14,
+        id:32,
         image:"https://www.jcrew.com/s7-img-facade/BN085_PT0518?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition twin XL sheet set in Liberty@Poppy Amelie fabric",
@@ -171,7 +312,7 @@ export default function Home() {
     
       },
       {
-        id:15,
+        id:33,
         image:"https://www.jcrew.com/s7-img-facade/BN056_PT2648?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition full sheet set in Liberty@Tudor Tulip fabric",
@@ -179,7 +320,7 @@ export default function Home() {
     
       },
       {
-        id:16,
+        id:34,
         image:"https://www.jcrew.com/s7-img-facade/BN089_PT2660?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition full sheet set in Liberty@ Toutouayette fabric",
@@ -187,7 +328,7 @@ export default function Home() {
     
       },
       {
-        id:17,
+        id:35,
         image:"https://www.jcrew.com/s7-img-facade/BN090_PT0598?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition full sheet set in Liberty@May Nouveau fabric",
@@ -195,7 +336,7 @@ export default function Home() {
     
       },
       {
-        id:18,
+        id:36,
         image:"https://www.jcrew.com/s7-img-facade/BN091_PT0518?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition full sheet set in Black Watch tartan",
@@ -203,7 +344,7 @@ export default function Home() {
     
       },
       {
-        id:19,
+        id:37,
         image:"https://www.jcrew.com/s7-img-facade/BN091_PT0518?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition full/queen set in Liberty@ Poppy Amelie fabric",
@@ -211,7 +352,7 @@ export default function Home() {
     
       },
       {
-        id:20,
+        id:38,
         image:"https://www.jcrew.com/s7-img-facade/BN057_YD2415?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition queen sheet set in Liberty@Tudor Tulip fabric",
@@ -219,7 +360,7 @@ export default function Home() {
     
       },
       {
-        id:21,
+        id:39,
         image:"https://www.jcrew.com/s7-img-facade/BN088_PT0518?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
         catagory:"ONLY A FEW LEFT",
         desc:"Limited-edition full sheet set in Liberty@ Toutouayette fabric",

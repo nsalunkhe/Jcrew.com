@@ -75,6 +75,12 @@ export default function Navbar() {
       >
         Women
       </NavLink>
+      <NavLink
+          style={({ isActive }) => (isActive ?activeStyle :normalStyle )}
+        to="/cart"
+      >
+        Cart
+      </NavLink>
     </div>
   );
 }
