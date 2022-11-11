@@ -5,9 +5,10 @@ import Girls from "../Components/Girls";
 import Home from "../Components/Home";
 import Login from "../Components/Login";
 import Men from "../Components/Men";
-import New from "../Components/New";
+// import New from "../Components/New";
 import Shoes from "../Components/Shoes";
 import Women from "../Components/Women";
+import Cart from "../Components/Cart";
 
 export default function AllRoutes(){
     return (
@@ -18,9 +19,10 @@ export default function AllRoutes(){
             <Route path="/girls" element={<Girls/>}></Route>
             <Route path="/gift" element={<Gift/>}></Route>
             <Route path="/men" element={<Men/>}></Route>
-            <Route path="/new" element={<New/>}></Route>
+            {/* <Route path="/new" element={<New/>}></Route> */}
             <Route path="/shoes" element={<Shoes/>}></Route>
             <Route path="/women" element={<Women/>}></Route>
+            <Route path="/cart" element={<Cart/>}></Route>
             
         </Routes>
     )
