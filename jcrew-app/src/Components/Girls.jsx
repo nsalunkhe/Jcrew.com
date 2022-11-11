@@ -6,7 +6,7 @@ export default function Girls() {
     const data3=[
         {
         id:1,
-        image:"https://www.jcrew.com/s7-img-facade/BM573_YD2359?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=309&hei=309",
+        image:"https://www.jcrew.com/s7-img-facade/BM573_YD2359?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=480&hei=480",
         catagory:"NEW",
         desc:"Girls'smocked puff-sleeve dress in tartan",
         price:"INR 12,372"  
