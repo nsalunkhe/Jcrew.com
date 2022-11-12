@@ -11,7 +11,7 @@ here are some snapshots of my project
 ![JCREW LOGO](https://user-images.githubusercontent.com/101391587/201466333-2b8c39be-f4d7-473f-8e60-6af473967288.png)
 ![image (1)](https://user-images.githubusercontent.com/101391587/201466469-1f7e279a-34c4-482e-abe1-c643bcf24a36.png)
 ![image (2)](https://user-images.githubusercontent.com/101391587/201466567-6d5791bf-7304-4998-b6b7-7b44ece40f4c.png)
-![image (3)](https://user-images.githubusercontent.com/101391587/201466648-3893aba8-18d7-4f7a-9bd9-d0e51313820e.png)
+
 ![image (4)](https://user-images.githubusercontent.com/101391587/201466696-64f48e6c-60dc-4392-997a-e0365efa64f2.png)
 
 
