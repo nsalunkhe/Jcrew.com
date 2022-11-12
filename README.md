@@ -3,7 +3,15 @@
 Here is my  first React project 
 Name: Jcrew.com (clone)
 Techstack used:- HTML,CSS,JavaScript,React(in react specially Chakra UI)
-You can visit my Project Here:- https://jcrewapp.netlify.app/
+You can visit my Project
+
+Here:- https://jcrewapp.netlify.app/
+
+
+
+
+
+
 here are some snapshots of my project
 
 ![image (10)](https://user-images.githubusercontent.com/101391587/201467252-7ae0ab18-86db-42e3-968c-c25f597d0e45.png)
