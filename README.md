@@ -13,7 +13,7 @@ here are some snapshots of my project
 ![image (2)](https://user-images.githubusercontent.com/101391587/201466567-6d5791bf-7304-4998-b6b7-7b44ece40f4c.png)
 ![image (3)](https://user-images.githubusercontent.com/101391587/201466648-3893aba8-18d7-4f7a-9bd9-d0e51313820e.png)
 ![image (4)](https://user-images.githubusercontent.com/101391587/201466696-64f48e6c-60dc-4392-997a-e0365efa64f2.png)
-![image (5)](https://user-images.githubusercontent.com/101391587/201466895-823508e6-8508-4949-b37f-aa37286b61ae.png)
+
 
 ![image (6)](https://user-images.githubusercontent.com/101391587/201466945-116fd7bd-f820-44e4-966b-34bf7efe90b7.png)
 
